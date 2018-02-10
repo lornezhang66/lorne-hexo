@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+db.json
+*.log
+node_modules/
+public/
+.deploy*/
+
+lornezhang66@gmail.com
+lornezhang66@gmail.com.pub
+github
+github.pub
